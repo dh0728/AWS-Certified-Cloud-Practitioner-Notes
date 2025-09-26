@@ -4,10 +4,11 @@
 
 > 다음 중 공유 책임 모델에서 고객이 책임지는 것은 무엇입니까?
 
-- A. AWS CLI  
-- B. AWS API  
-- C. AWS SDK  
-- D. AWS Management Console  
+- A. Ensuring that disk drives are wiped after use. 
+- B. Ensuring that firmware is updated on hardware devices. 
+- C. Ensuring that data is encrypted at rest. 
+- D. Ensuring that network cables are category six or higher. 
+
 
 <details><summary>Answer</summary>
 
